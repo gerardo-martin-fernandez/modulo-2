@@ -13,6 +13,6 @@ Descarga el archivo zip. con todo el proyecto
 # Entrega de Ejercicio 1.4-Vector Secuencia
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-Descarga Ejercicio 1.4 en PDF [https://github.com/gerardo-martin-fernandez/modulo-2/blob/main/Ejercicio%201.4-M%C3%B3dulo%202.pdf]
+[Descarga Ejercicio 1.4 en PDF](https://github.com/gerardo-martin-fernandez/modulo-2/blob/main/Ejercicio%201.4-M%C3%B3dulo%202.pdf)
 
 Descarga el archivo zip. con todo el proyecto
