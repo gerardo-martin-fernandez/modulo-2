@@ -4,9 +4,9 @@ Este Repositorio esta destinado al módulo 2 de la materia 'Técnicas y herramie
 # Entrega de Algoritmos y Ejercicios
 Los archivos pueden ser descargados mediante los siguientes atajos
 
-Descarga Algoritmos y Ejercicios en PDF
+[Descarga Algoritmos y Ejercicios en PDF](https://github.com/gerardo-martin-fernandez/modulo-2/blob/main/Algoritmos/Algoritmos%20y%20Ejercicios.pdf)
 
-Descarga el archivo zip. con todo el proyecto
+[Descarga el archivo zip. con todo el proyecto](https://github.com/gerardo-martin-fernandez/modulo-2/blob/main/Algoritmos/Algoritmos%20y%20Ejercicios.zip)
 
 [Hacé clic aquí para ver la presentación final publicada en RPubs]
 
